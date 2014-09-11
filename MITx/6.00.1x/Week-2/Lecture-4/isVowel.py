@@ -1,7 +1,7 @@
 """Check if a given character is a vowel."""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def isVowel(char):
     '''

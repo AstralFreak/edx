@@ -1,7 +1,7 @@
 """Count the number of vowels contained in the given string"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def countVowels(string):
     '''

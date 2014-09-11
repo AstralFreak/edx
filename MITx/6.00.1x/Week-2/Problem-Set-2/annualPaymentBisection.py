@@ -1,7 +1,7 @@
 """Find the minimum fixed monthly payment needed in order pay off a credit card balance within 12 months with bisection method"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def annualPaymentBisection(balance, annualInterestRate):
     '''

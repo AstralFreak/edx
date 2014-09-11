@@ -1,7 +1,7 @@
 """Calculate the value of the quadratic ax^2 + bx + c"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def evalQuadratic(a, b, c, x):
     '''

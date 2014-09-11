@@ -1,7 +1,7 @@
 """Calculate the square root of a perfect square"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def squareRootInt(x):
     '''

@@ -1,7 +1,7 @@
 """Find the number of occurrences of a pattern in a string"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def substringMatching(pattern, string):
     '''

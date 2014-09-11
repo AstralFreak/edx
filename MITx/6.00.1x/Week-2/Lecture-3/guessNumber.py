@@ -1,7 +1,7 @@
 """Lecture 3 | Problem 9: guess a number between 0 and 100 with the bisection method"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 print "Please think of a number between 0 and 100!"
 low = 0

@@ -1,7 +1,7 @@
 """Print the credit card balance for the first year with minimum monthly payment"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def minimumPayment(balance, annualInterestRate, monthlyPaymentRate):
     '''

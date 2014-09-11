@@ -1,7 +1,7 @@
 """Calculate the root cube of an integer"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def cubeRootInt(x):
     '''

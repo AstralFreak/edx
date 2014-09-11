@@ -1,7 +1,7 @@
 """Convert decimal numbers - integer or fractional - to binary"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def dec2bin(x):
     """

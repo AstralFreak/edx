@@ -1,7 +1,7 @@
 """Find the longest substring in alphabetical order occurring in a string"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def longestSubstringMatching(pattern, string):
     '''

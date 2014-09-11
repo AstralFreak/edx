@@ -1,7 +1,7 @@
 """Problem 5 | Lecture 4: takes in three numbers and returns a value based on the value of x."""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def clip(lo, x, hi):
     '''

@@ -1,7 +1,7 @@
 """Find the nth root of a number with the bisection method."""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def rootBisection(x, power, precision):
     '''

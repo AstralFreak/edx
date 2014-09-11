@@ -1,7 +1,7 @@
 """Calculate the square cube of a float number"""
 
 __author__ = 'Nicola Moretto'
-__license__ = "GPLv2"
+__license__ = "MIT"
 
 def squareRootFloat(x, step, precision):
     '''
