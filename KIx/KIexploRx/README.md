@@ -7,3 +7,11 @@ RESOURCES
 - [The R Project for Statistical Computing](http://www.r-project.org/)
 - [RStudio](http://www.rstudio.com/)
 - [R Cheat Sheets | DevCheatSheet.com](http://devcheatsheet.com/tag/r/)
+- [rOpenGov - R Ecosystem for Open Government Data and Computational Social Science](https://ropengov.github.io/)
+
+PACKAGES
+--------
+- [HistData](http://cran.r-project.org/web/packages/HistData/)
+- [lubridate](http://cran.r-project.org/web/packages/lubridate/)
+- [reshape2](http://cran.r-project.org/web/packages/reshape2/)
+- [sweSCB](http://cran.r-project.org/web/packages/sweSCB/)
