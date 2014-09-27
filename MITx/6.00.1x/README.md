@@ -4,4 +4,8 @@ Introduction to Computer Science and Programming Using Python
 
 RESOURCES
 ---------
+- [Composing Programs](http://composingprograms.com/)
+- [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+- [PythonLearn - Exploring Data](http://www.pythonlearn.com/)
 - [Python Tutor](http://www.pythontutor.com/)
+- [Think Python](http://www.greenteapress.com/)

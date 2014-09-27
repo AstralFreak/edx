@@ -8,6 +8,8 @@ RESOURCES
 - [RStudio](http://www.rstudio.com/)
 - [R Cheat Sheets | DevCheatSheet.com](http://devcheatsheet.com/tag/r/)
 - [rOpenGov - R Ecosystem for Open Government Data and Computational Social Science](https://ropengov.github.io/)
+- [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+- [Statistic Portal - Wikipedia](https://en.wikipedia.org/wiki/Portal:Statistics)
 
 PACKAGES
 --------
